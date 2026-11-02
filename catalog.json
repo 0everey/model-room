@@ -1,0 +1,14 @@
+{
+  "schema": "resource-room.catalog.v1",
+  "repository": "0everey/model-room",
+  "category": {
+    "id": "models",
+    "name": "模型"
+  },
+  "futureTarget": {
+    "comparison": ">",
+    "threshold": 30,
+    "minimumCount": 31
+  },
+  "items": []
+}
